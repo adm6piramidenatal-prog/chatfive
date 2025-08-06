@@ -1,0 +1,13 @@
+{
+  "name": "chat-colaboradores",
+  "version": "1.0.0",
+  "description": "Chat interno entre colaboradores",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
